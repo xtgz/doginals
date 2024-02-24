@@ -4,14 +4,9 @@
   "description": "A minter and protocol for inscriptions on Dogecoin",
   "main": "doginals.js",
   "author": "xtgz",
-  "license": "MIT",
+  "license": "ISC",
   "bin": {
     "doginals": "doginals.js"
-  },
-  "author": "xtgz",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/xtgz/Drc-20/issues"
   },
   "repository": {
     "type": "git",
