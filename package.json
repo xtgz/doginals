@@ -11,11 +11,11 @@
   "main": "doginals.js",
   "dependencies": {
     "axios": "^1.3.4",
-            "bitcore-lib-doge": "^8.25.46",
-            "dotenv": "^16.0.3",
-            "express": "^4.18.2",
-            "mime-types": "^2.1.35",
-            "lodash": "^4.17.21"
-            "axios": "^1.6.7"
+    "doginals": "1.0.0",
+    "bitcore-lib-doge"; "^8.25.46",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mime-types": "^2.1.35",
+    "lodash": "^4.17.21"
   }
 }
